@@ -1,7 +1,5 @@
 class Solution {
     public int addDigits(int num) {
-        
-        if(String.valueOf(num).length() == 1) return num;
 
         while(String.valueOf(num).length() > 1){
 
@@ -12,7 +10,7 @@ class Solution {
                 int temp = num % 10;
                 num = num / 10;
                 sum += temp;
-                
+
             }
 
             num = sum;
