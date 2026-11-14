@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,8 +49,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
+## Design
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
