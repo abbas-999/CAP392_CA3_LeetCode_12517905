@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0367-valid-perfect-square) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
