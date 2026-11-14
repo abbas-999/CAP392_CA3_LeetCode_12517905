@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0065-valid-number) |
 | [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
 ## Design
 |  |
