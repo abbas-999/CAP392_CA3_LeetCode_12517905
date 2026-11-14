@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
