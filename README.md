@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
