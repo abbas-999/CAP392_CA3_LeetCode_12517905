@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
 | [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/0073-set-matrix-zeroes) |
 | [2349-design-a-number-container-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/abbas-999/CAP392_CA3_LeetCode_12517905/tree/master/2353-design-a-food-rating-system) |
